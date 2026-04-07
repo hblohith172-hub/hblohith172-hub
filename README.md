@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**hblohith172-hub/hblohith172-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Lohith**.
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
+I'm currently learning programming and exploring the world of software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+* 🌱 Currently learning: Programming & development
+* 💻 Interested in: Technology, coding, and building projects
+* 📚 Always trying to learn something new
+* 🎯 Goal: Become a skilled developer and build useful projects
+
+---
+
+## 🛠️ Skills & Tools
+
+* Git & GitHub
+* Programming (learning phase)
+
+---
+
+⭐ Thanks for visiting my profile!
+
