@@ -1,27 +1,41 @@
-# Hi there 👋
+# Lohith
 
-I'm **Lohith**.
-
-Welcome to my GitHub profile!
-I'm currently learning programming and exploring the world of software development.
+I'm currently exploring AI/ML by working with local models and building small systems around them.
 
 ---
 
-## 🚀 About Me
+## What I'm doing right now
 
-* 🌱 Currently learning: Programming & development
-* 💻 Interested in: Technology, coding, and building projects
-* 📚 Always trying to learn something new
-* 🎯 Goal: Become a skilled developer and build useful projects
-
----
-
-## 🛠️ Skills & Tools
-
-* Git & GitHub
-* Programming (learning phase)
+* Running and testing local LLMs using Ollama
+* Using OpenClaw to automate tasks on my system
+* Trying to understand how AI agents and workflows actually work in practice
 
 ---
 
-⭐ Thanks for visiting my profile!
+## Tech I'm using
+
+* Python
+* Ollama
+* OpenClaw
+
+---
+
+## Learning
+
+* How local LLMs work
+* How to build useful tools using them
+* Basics of AI/ML beyond just theory
+
+---
+
+## About me
+
+I prefer building things and figuring them out step by step rather than just learning concepts.
+
+---
+
+## GitHub
+
+https://github.com/hblohith172-hub
+
 
